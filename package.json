@@ -1,0 +1,36 @@
+{
+  "name": "@manekinekko/cafy-notion",
+  "version": "1.0.0",
+  "description": "Control your coffee machine using your brain thanks to the Notion headset",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "coffee-machine",
+    "iot",
+    "ble",
+    "nodejs",
+    "notion",
+    "bci",
+    "neurosity",
+    "mind"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manekinekko/cafy-notion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manekinekko/cafy-notion/issues"
+  },
+  "homepage": "https://github.com/manekinekko/cafy-notion#readme",
+  "dependencies": {
+    "@manekinekko/cafy": "git+https://github.com/manekinekko/cafy.git#1.0.1-alpha.0",
+    "@neurosity/notion": "^5.1.1",
+    "dotenv": "^8.2.0",
+    "ora": "^5.1.0"
+  },
+  "devDependencies": {}
+}
