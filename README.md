@@ -2,6 +2,10 @@
 
 Control your coffee machine using your brain thanks to the Notion headset.
 
+<p align="center">
+    <img src="./docs/cafy-notion.jpg"/>
+</p>
+
 ## Prerequisites
 
 In order to run this demo, you will need:
